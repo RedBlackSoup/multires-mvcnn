@@ -6,7 +6,7 @@ ModelNet_OFF2MAT：将OFF的网格模型转换为三维张量，保存为MAT文�
 
 ModelNet_Mat2PNG：根据MAT渲染多世界的PNG图片。
 
-mvcnn：根据https://github.com/jongchyisu/mvcnn_pytorch修改，作为基线模型。
+mvcnn：根据https://github.com/jongchyisu/mvcnn_pytorch 修改，作为基线模型。
 
 
 
