@@ -1,6 +1,8 @@
 ## 简介
 
-本代码来自于https://github.com/jongchyisu/mvcnn_pytorch，并代码进行适度修改，适配了我们自己的dataset，该结果将作为网络性能的基准测试；同时也对网络添加了单类测试功能，以得到每个类的准确率。
+本代码来自于https://github.com/jongchyisu/mvcnn_pytorch
+
+并对代码进行适度修改，适配了我们自己的dataset，该结果将作为网络性能的基准测试；同时也对网络添加了单类测试功能，以得到每个类的准确率。
 
 ## 代码运行
 
