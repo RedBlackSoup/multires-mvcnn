@@ -8,8 +8,10 @@ ModelNet_Mat2PNG：根据MAT渲染多世界的PNG图片。
 
 mvcnn：根据https://github.com/jongchyisu/mvcnn_pytorch 修改，作为基线模型。
 
-
-
 数据集来自ModelNet40（PRINCETON MODELNET）
 
 https://modelnet.cs.princeton.edu/
+
+我们的数据地址
+
+https://drive.google.com/drive/folders/1ybgt-QEx0rMeyR1XJ_1GSqTp-bR1cqCR?usp=sharing
